@@ -15,8 +15,8 @@ This project implements and simulates a **16-bit Arithmetic Logic Unit (ALU)** u
 
 ## Files
 
-* `alu16.v` – Verilog module for the 16-bit ALU
-* `alu16_tb.v` – Testbench used for simulation
+* `ALU16.v` – Verilog module for the 16-bit ALU
+* `ALU16_TB.v` – Testbench used for simulation
 
 ## Tools Used
 
